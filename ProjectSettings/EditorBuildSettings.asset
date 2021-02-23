@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinSceneEasy.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinSceneHard.unity
+    guid: 136b0cf865eaa6e45a5bdf4ac80e72bb
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseSceneEasy.unity
+    guid: 2fdd6107b8f8f094b85800d5e2b33c5a
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseSceneHard.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/Easy_lvl1.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/FPS/Scenes/Easy_lvl2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/FPS/Scenes/Easy_lvl3.unity
+    guid: de74c4199632429409966002fb7e15ea
+  - enabled: 1
+    path: Assets/FPS/Scenes/Hard_lvl1.unity
+    guid: 1710e297acc9984409e3a44573c7e478
+  - enabled: 1
+    path: Assets/FPS/Scenes/Hard_lvl2.unity
+    guid: de15b2e821aeaaf4cbd91380f5fe52d3
+  - enabled: 1
+    path: Assets/FPS/Scenes/Hard_lvl3.unity
+    guid: 5e3acfc3ae4f61f4ebb62fe4988da92a
+  m_configObjects: {}
